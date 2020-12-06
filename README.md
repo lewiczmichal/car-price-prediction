@@ -1,2 +1,2 @@
 # car-price-prediction
-Konkurs na Kaggle podczas kursu Praktyczne czenie maszynowe z Data Workshop
+Konkurs na Kaggle podczas kursu Praktyczne uczenie maszynowe z Data Workshop
